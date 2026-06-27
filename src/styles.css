@@ -6,6 +6,12 @@
   --shadow-color: #e8e8e8;
   --font-size: 16px;
   --line-height: 1.5;
+
+  --text-xl: 3rem;
+  --text-lg: 2rem;
+  --text-md: 1.5rem;
+  --text-sm: 1rem;
+  --text-xs: 0.75rem;
 }
 
 * {

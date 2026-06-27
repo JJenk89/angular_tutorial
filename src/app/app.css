@@ -6,6 +6,11 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
+.logo {
+  color: var(--primary-color);
+  font-size: var(--text-xl);
+}
+
 button.primary {
   padding: 10px;
   border: solid 1px var(--primary-color);
