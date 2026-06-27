@@ -11,14 +11,6 @@ h1 {
   font-size: var(--text-xl);
 }
 
-button.primary {
-  padding: 10px;
-  border: solid 1px var(--primary-color);
-  background: var(--primary-color);
-  color: white;
-  border-radius: 8px;
-}
-
 header {
   background: var(--accent-color);
   color: white;
