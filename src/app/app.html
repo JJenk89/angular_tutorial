@@ -3,13 +3,15 @@
 <!-- ************************* -->
 
     <main>
-      <header class="brand-name">
-        <h1 class="logo">Housing App</h1>
-      </header>
+      <a [routerLink]="['/']">
+        <header class="brand-name">
+          <h1 class="logo">Housing App</h1>
+        </header>
+      </a>
       <section class="content">
-        <app-home />
+        <router-outlet />
       </section>
     </main>
 
 
-<router-outlet />
+
